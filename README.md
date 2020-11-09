@@ -11,3 +11,5 @@ Assignment 3 - Theory of Generalization, Breakpoints, Growth Functions
 Assignment 4 - Bias and Variance, VC Dimension, Generalization Error
 
 Assignment 5 - Linear Regression Error, Gradient Descent, Logistic Regression
+
+Assignment 6 - Overfitting, Regularization with Weight Decay, Neural Networks
